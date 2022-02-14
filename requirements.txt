@@ -1,0 +1,4 @@
+selenium==4.1.0
+pytest==6.2.5
+Pillow==8.2.0
+allure-pytest==2.9.45
